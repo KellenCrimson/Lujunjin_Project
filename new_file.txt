@@ -1,0 +1,3 @@
+This is a test file
+This is a git clone directory
+This parent directory is not git directory
